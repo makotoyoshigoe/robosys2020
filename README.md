@@ -9,3 +9,8 @@
 * [lesson5](https://ryuichiueda.github.io/robosys2020/lesson5_process.html)
 * [lesson6](https://ryuichiueda.github.io/robosys2020/lesson6_filesystem.html)
 * [lesson7](https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html)
+* [lesson8](https://ryuichiueda.github.io/robosys2020/lesson3_git.html)
+* [lesson9](https://ryuichiueda.github.io/robosys2020/lesson4_os_history.html)
+* [lesson10](https://ryuichiueda.github.io/robosys2020/lesson5_process.html)
+* [lesson11](https://ryuichiueda.github.io/robosys2020/lesson6_filesystem.html)
+* [lesson12](https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html)
